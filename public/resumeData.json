@@ -1,0 +1,139 @@
+{
+  "main": {
+    "name": "Abdulkabir Ojulari",
+    "occupation": "Web Developer & Data Analyst",
+    "description": "I am a full stack developer and data analyst with experience in PHP (Laravel & WordPress), SQL (MySQL & PostgreSQL), JavaScript (React & JQuery), Excel, Python, Tableau ",
+    "image": "abdul.jpg",
+    "bio": "My name is Abdulkabir, I'm a Data Analyst and Web Developer with more than 5 years well-rounded experience in procedural and object-oriented design, user-centered design, and continuous integration",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "abdulkabirojulari@gmail.com",
+    "phone": "+1 647 563 7235",
+    "address": {
+      "street": "735 Wonderland Road South",
+      "city": "London, Ontario",
+      "state": "Ontario",
+      "zip": "N6K 1M1"
+    },
+    "website": "http://www.abdulkabirojulari.com",
+    "resumedownload": "Tola_ojulari_resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abdulojulari/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kiddiestvinc/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abdojulari",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Ilorin",
+        "degree": "Master of Science in Computer Science",
+        "graduated": "September 2014",
+        "description": "assessed by WES as equivalent to Master of Science (Canada)"
+      }
+    ],
+    "work": [
+      {
+        "company": "adHome Creative",
+        "title": "Web Developer",
+        "years": "August 2019 - March 2020",
+        "description": "Developed web application in WordPress using WordPress functionalities, Plugins like ACF Pro, Search and filter pro, custom post type UI, etc."
+      },
+      {
+        "company": "Devlift Media Inc",
+        "title": "Front-end and Mobile Developer",
+        "years": "January 2019 - August 2020",
+        "description": "Developing front-end interface with ReactJs, firebase etc. Developing a Mobile Application in react-native, connecting to API using axios and fetchAPI"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "PHP",
+        "level": "55%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Data Analysis and Visualisation with Excel or Google Data Studio",
+        "category": "Data Analytics",
+        "image": "portfolio.png",
+        "url": "https://www.youtube.com/watch?v=2srsod8A8mE"
+      },
+      {
+        "title": "SQL Training for Data Analyst (Complete Beginners)",
+        "category": "Data Analytics",
+        "image": "portfolio.png",
+        "url": "https://www.youtube.com/watch?v=lKHVIlfE_XI&t=19s"
+      },
+      {
+        "title": "Part 2: SQL Training for Data Analyst (Complete Beginner)",
+        "category": "Data Analytics",
+        "image": "portfolio.png",
+        "url": "https://www.youtube.com/watch?v=PLuI-Yt6heg"
+      },
+      {
+        "title": "Part 3: SQL for Data Analytics",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "portfolio.png",
+        "url": "https://www.youtube.com/watch?v=fw6LTHI5ShA"
+      },
+      {
+        "title": "Part 4: SQL for Data Analytics",
+        "category": "Data Analytics",
+        "image": "portfolio.png",
+        "url": "https://www.youtube.com/watch?v=ZijkvXnPv5Q&t=2s"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "It is easy to understand thanks to Mr Abdul",
+        "user": "Adedokun Roseline Abosede"
+      },
+      {
+        "text": "It is very helpful and well explained",
+        "user": "Cassey Brown"
+      }
+    ]
+  }
+}
